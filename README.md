@@ -1,3 +1,4 @@
 # hello-world
 Hello World Testing
-This is just a test of github, so I can have a little idea of what I'm getting myself into.
+This is just a test of github.
+I'm deleting some text and adding new text to this old already sent code. 
